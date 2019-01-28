@@ -1,0 +1,5 @@
+rootProject.name = 'game-translator'
+include 'jintellitype'
+include 'app'
+include 'youdaoapi'
+

@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+}
+
+version 'unspecified'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    testCompile group: 'org.apache.httpcomponents', name: 'httpclient', version: '4.5.2'
+
+    compile group: 'net.coobird', name: 'thumbnailator', version: '0.4.8'
+    compile group: 'com.squareup.okhttp3', name: 'okhttp', version: '3.11.0'
+}

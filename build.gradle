@@ -1,0 +1,34 @@
+subprojects {
+    apply plugin: 'java'
+    apply plugin: 'idea'
+
+
+    sourceCompatibility = 1.8
+    targetCompatibility = 1.8
+
+    tasks.withType(JavaCompile) {
+        options.encoding = "UTF-8"
+    }
+
+    repositories {
+        maven { url "http://maven.aliyun.com/nexus/content/groups/public/" }
+        maven { url 'https://repo.spring.io/libs-milestone' }
+        mavenCentral()
+        jcenter()
+        maven { url 'https://repo.spring.io/libs-snapshot' }
+        maven { url 'https://oss.sonatype.org/content/groups/public/' }
+        maven { url 'https://oss.sonatype.org/content/repositories/snapshots' }
+        maven { url "E:\\Environment\\maven\\repository" }
+    }
+
+    dependencies {
+        compile group: 'com.jeramtough', name: 'jtlog', version: '1.4.2-LOCAL'
+        compile group: 'com.jeramtough', name: 'jtutil', version: '1.1.0-RELEASE'
+        compile group: 'com.jeramtough', name: 'jtcomponent', version: '1.0-SNAPSHOT'
+        compile group: 'com.alibaba', name: 'fastjson', version: '1.2.49'
+        compile group: 'commons-io', name: 'commons-io', version: '2.6'
+//        compile group: 'org.springframework.cloud', name: 'spring-cloud-starter-netflix-eureka-client', version: springCloudVersion
+//        compile group: 'org.springframework.cloud', name: 'spring-cloud-starter-netflix-ribbon', version: springCloudVersion
+    }
+}
+

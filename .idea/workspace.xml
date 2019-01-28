@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6cdaf71-d548-47d5-aea6-b6b277335233" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/jintellitype/.gradle/" />
+    <ignored path="$PROJECT_DIR$/jintellitype/build/" />
+    <ignored path="$PROJECT_DIR$/jintellitype/out/" />
+    <ignored path="$PROJECT_DIR$/app/.gradle/" />
+    <ignored path="$PROJECT_DIR$/app/build/" />
+    <ignored path="$PROJECT_DIR$/app/out/" />
+    <ignored path="$PROJECT_DIR$/youdaoapi/.gradle/" />
+    <ignored path="$PROJECT_DIR$/youdaoapi/build/" />
+    <ignored path="$PROJECT_DIR$/youdaoapi/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/jintellitype">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="game-translator" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="game-translator" type="f1a62948:ProjectNode" />
+                <item name=":jintellitype" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="game-translator" type="f1a62948:ProjectNode" />
+                <item name=":jintellitype" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="game-translator" type="f1a62948:ProjectNode" />
+                <item name=":jintellitype" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/business/MainBusinessImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="74" column="40" lean-forward="true" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/gui/GuiMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="111" column="19" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1825#1826#0" expanded="true" />
+                <element signature="e#1853#1854#0" expanded="true" />
+                <element signature="e#2608#2609#0" expanded="true" />
+                <element signature="e#2646#2647#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/Environment/gradle/gradle-4.4/caches/modules-2/files-2.1/com.jeramtough/jtcomponent/1.0-SNAPSHOT/8b922ac19961cfc4ff12cf87d80c2c01d416241e/jtcomponent-1.0-SNAPSHOT-sources.jar!/com/jeramtough/jtcomponent/task/callback/SimpleTaskCallback.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jintellitype/src/test/java/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="47" />
+              <folding>
+                <element signature="e#538#539#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/Environment/Java/jdk-8/javafx-src.zip!/javafx/scene/input/KeyCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19348">
+              <caret line="1169" column="14" selection-start-line="1169" selection-start-column="14" selection-end-line="1169" selection-end-column="14" />
+              <folding>
+                <element signature="e#28597#28598#0" expanded="true" />
+                <element signature="e#28624#28625#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jintellitype/src/test/java/UserTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="105" column="1" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="105" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jintellitype/src/main/java/com/melloware/jintellitype/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/exception/TranslateException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/test/java/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="26" column="59" lean-forward="true" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/business/MainBusiness.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fromJarToFs</find>
+      <find>&amp;quot;</find>
+      <find>&amp;lt;</find>
+      <find>&amp;#x27;</find>
+      <find>KeyUtil</find>
+      <find>md5</find>
+      <find>encryptByMD5</find>
+      <find>requestParametersMap.</find>
+      <find>code</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;</replace>
+      <replace>&lt;</replace>
+      <replace>'</replace>
+      <replace>.addFormDataPart</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/gametranslator/pojo/youdao/ImageTranslationResult.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/gametranslator/pojo/youdao/ResRegions.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/gametranslator/component/youdao/ImageTranslator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/gametranslator/business/MainBusiness.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/gametranslator/business/MainBusinessImpl.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/gametranslator/pojo/translationresult/ImageTranslationResult.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/gametranslator/component/youdao/YoudaoImageTranslator.java" />
+        <option value="$PROJECT_DIR$/app/src/test/java/UrlTest.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/component/youdao/YoudaoImageTranslator.java" />
+        <option value="$PROJECT_DIR$/app/src/test/java/OCRDemoForHttp.java" />
+        <option value="$PROJECT_DIR$/app/src/test/java/TransOCRApiDemo1.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/util/RequestUrlUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/component/http/pojo/ResRegions.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/component/http/pojo/ImageTranslationResult.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/component/http/MyHttpClient.java" />
+        <option value="$PROJECT_DIR$/app/src/test/java/TesseractExample.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/component/youdao/ImageTranslator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/component/youdao/bean/YoudaoRequestParameters.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/component/youdao/bean/YoudaoRequestTextTranslationParameters.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/component/youdao/factory/YoudaoRequestParametersFactory.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/component/youdao/bean/YoudaoRequestImageTranslationParameters.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/http/pojo/ResRegions.java" />
+        <option value="$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/ImageTranslator.java" />
+        <option value="$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/YoudaoYoudaoTranslator.java" />
+        <option value="$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/factory/YoudaoRequestParametersFactory.java" />
+        <option value="$PROJECT_DIR$/youdaoapi/build.gradle" />
+        <option value="$PROJECT_DIR$/youdaoapi/src/test/java/TransOCRApiDemo1.java" />
+        <option value="$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/pojo/text/Dict.java" />
+        <option value="$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/exception/TranslateException.java" />
+        <option value="$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/YoudaoTranslator.java" />
+        <option value="$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/pojo/result/text/TextTranslationResult.java" />
+        <option value="$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/pojo/result/text/Dict.java" />
+        <option value="$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/pojo/result/text/Webdict.java" />
+        <option value="$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/http/MyHttpClient.java" />
+        <option value="$PROJECT_DIR$/youdaoapi/src/test/java/Test.java" />
+        <option value="$PROJECT_DIR$/youdaoapi/src/test/java/ImageTest.java" />
+        <option value="$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/util/ImageUtil.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/component/tesseract/Tesseractor.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/component/ocr/Tesseractor.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/component/ocr/MyTesseractor.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/util/ClipboardUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/util/ImageUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/test/java/TranslationTest.java" />
+        <option value="$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/DefaultYoudaoTranslator.java" />
+        <option value="$PROJECT_DIR$/app/src/test/java/Test.java" />
+        <option value="$PROJECT_DIR$/jintellitype/src/test/java/Test.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/business/MainBusiness.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/business/MainBusinessImpl.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/gui/GuiMain.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-3" />
+    <option name="width" value="1372" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="game-translator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="game-translator" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="game-translator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.jeramtough.youdaoapi.pojo.result" />
+      <recent name="" />
+      <recent name="gametranslator.component" />
+      <recent name="gametranslator.component.youdao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Codes\IdeaCodes\game-translator\youdaoapi\src\test\resources" />
+      <recent name="E:\Codes\IdeaCodes\game-translator\youdaoapi\src\main\java\com\jeramtough\youdaoapi\pojo\text" />
+      <recent name="E:\Codes\IdeaCodes\game-translator\youdaoapi\src\main\java\com\jeramtough\youdaoapi" />
+      <recent name="E:\Codes\IdeaCodes\game-translator\app\src\main\java\gametranslator\pojo\youdao" />
+      <recent name="E:\Codes\IdeaCodes\game-translator\app\src\test\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="gametranslator.component.http" />
+      <recent name="gametranslator.business" />
+      <recent name="gametranslator.component.youdao" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GuiMain">
+    <configuration name="GuiMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jeramtough.gametranslator.gui.GuiMain" />
+      <module name="com.jeramtough.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jeramtough.gametranslator.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="com.jeramtough.app.test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.mainBusiness" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.jeramtough.app.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="mainBusiness" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.jeramtough.jintellitype.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TranslationTest.tempImageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.jeramtough.app.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TranslationTest" />
+      <option name="METHOD_NAME" value="tempImageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GuiMain" />
+        <item itemvalue="JUnit.Test.test2" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="JUnit.TranslationTest.tempImageTest" />
+        <item itemvalue="JUnit.Test.mainBusiness" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6cdaf71-d548-47d5-aea6-b6b277335233" name="Default Changelist" comment="" />
+      <created>1548252047456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548252047456</updated>
+      <workItem from="1548252052681" duration="6006000" />
+      <workItem from="1548258400793" duration="17505000" />
+      <workItem from="1548345109704" duration="28000" />
+      <workItem from="1548345168099" duration="1045000" />
+      <workItem from="1548425583791" duration="1198000" />
+      <workItem from="1548446783509" duration="627000" />
+      <workItem from="1548448903104" duration="2243000" />
+      <workItem from="1548605175186" duration="14029000" />
+      <workItem from="1548660340978" duration="28000" />
+      <workItem from="1548660445823" duration="590000" />
+      <workItem from="1548661058934" duration="681000" />
+      <workItem from="1548661897883" duration="5136000" />
+      <workItem from="1548675268059" duration="9191000" />
+      <workItem from="1548684570230" duration="3432000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ImageTest_test - 2019.01.28 at 20h 55m 46s.xml">
+      <configuration name="ImageTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_translateImageToText - 2019.01.28 at 21h 27m 23s.xml">
+      <configuration name="Test.translateImageToText" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_mainBusiness - 2019.01.28 at 21h 56m 45s.xml">
+      <configuration name="Test.mainBusiness" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TranslationTest_tempImageTest - 2019.01.28 at 22h 03m 05s.xml">
+      <configuration name="TranslationTest.tempImageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TranslationTest_tempImageTest - 2019.01.28 at 22h 03m 30s.xml">
+      <configuration name="TranslationTest.tempImageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TranslationTest_tempImageTest - 2019.01.28 at 22h 03m 43s.xml">
+      <configuration name="TranslationTest.tempImageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test2 - 2019.01.28 at 22h 33m 27s.xml">
+      <configuration name="Test.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test2 - 2019.01.28 at 22h 34m 13s.xml">
+      <configuration name="Test.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test2 - 2019.01.28 at 22h 34m 41s.xml">
+      <configuration name="Test.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test2 - 2019.01.28 at 22h 38m 28s.xml">
+      <configuration name="Test.test2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="61739000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24357034" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3282313" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32482994" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39795917" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32993197" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="12" weight="0.3282313" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3282313" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Gradle" order="4" weight="0.1323752" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/util/ImageUtil.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>getClass().getResource(dllFileName1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/component/youdao/YoudaoImageTranslator.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/TransOCRApiDemo1.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/component/youdao/ImageTranslator.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/component/youdao/factory/YoudaoRequestParametersFactory.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/component/youdao/bean/YoudaoRequestTextTranslationParameters.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/component/youdao/bean/YoudaoRequestParameters.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/component/youdao/bean/YoudaoRequestImageTranslationParameters.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/component/http/MyHttpClient.java" />
+    <entry file="file://$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/bean/YoudaoRequestImageTranslationParameters.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/bean/YoudaoRequestParameters.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/bean/YoudaoRequestTextTranslationParameters.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/OCRDemoForHttp.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/UrlTest.java" />
+    <entry file="file://$PROJECT_DIR$/youdaoapi/src/test/java/UrlTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youdaoapi/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="14" column="88" selection-start-line="14" selection-start-column="88" selection-end-line="14" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/factory/YoudaoRequestParametersFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-92">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/pojo/result/image/ImageTranslationResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/pojo/result/image/ResRegions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/YoudaoTranslator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/pojo/result/text/Dict.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/pojo/result/text/TextTranslationResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="95" column="40" selection-start-line="95" selection-start-column="40" selection-end-line="95" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/pojo/result/text/Webdict.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/http/MyHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="967">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youdaoapi/src/test/java/TransOCRApiDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="74" column="23" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youdaoapi/src/test/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youdaoapi/src/test/resources/rrr1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youdaoapi/src/test/resources/rrr.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youdaoapi/src/test/java/ImageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/util/ImageUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youdaoapi/src/test/resources/temp.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/util/ClipboardUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1886">
+          <caret line="87" column="17" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/TesseractExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="9" selection-start-line="21" selection-start-column="6" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/component/ocr/MyTesseractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/TranslationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/util/ImageUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/DefaultYoudaoTranslator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youdaoapi/src/main/java/com/jeramtough/youdaoapi/exception/TranslateException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="26" column="59" lean-forward="true" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jintellitype/src/test/java/UserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="105" column="1" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="105" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jintellitype/src/main/java/com/melloware/jintellitype/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Environment/Java/jdk-8/javafx-src.zip!/javafx/application/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="222" column="23" selection-start-line="222" selection-start-column="23" selection-end-line="222" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Environment/Java/jdk-8/src.zip!/java/lang/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-483">
+          <caret line="107" column="28" selection-start-line="107" selection-start-column="24" selection-end-line="107" selection-end-column="28" />
+          <folding>
+            <element signature="e#2979#2980#0" expanded="true" />
+            <element signature="e#3009#3010#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Environment/Java/jdk-8/javafx-src.zip!/javafx/scene/input/KeyCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19348">
+          <caret line="1169" column="14" selection-start-line="1169" selection-start-column="14" selection-end-line="1169" selection-end-column="14" />
+          <folding>
+            <element signature="e#28597#28598#0" expanded="true" />
+            <element signature="e#28624#28625#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jintellitype/src/test/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="47" />
+          <folding>
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/business/MainBusinessImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="74" column="40" lean-forward="true" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Environment/gradle/gradle-4.4/caches/modules-2/files-2.1/com.jeramtough/jtcomponent/1.0-SNAPSHOT/8b922ac19961cfc4ff12cf87d80c2c01d416241e/jtcomponent-1.0-SNAPSHOT-sources.jar!/com/jeramtough/jtcomponent/task/callback/SimpleTaskCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/business/MainBusiness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jeramtough/gametranslator/gui/GuiMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="111" column="19" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1825#1826#0" expanded="true" />
+            <element signature="e#1853#1854#0" expanded="true" />
+            <element signature="e#2608#2609#0" expanded="true" />
+            <element signature="e#2646#2647#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main|youdaoapi|game-translator</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
